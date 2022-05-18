@@ -1,0 +1,3 @@
+2022-04-15 17:26:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.user_id as user_id1_4_, user0_.nick_name as nick_nam2_4_, user0_.password as password3_4_, user0_.profile_img as profile_4_4_, user0_.user_email as user_ema5_4_, user0_.user_name as user_nam6_4_ from user user0_ where user0_.user_email=? [42102-200]
